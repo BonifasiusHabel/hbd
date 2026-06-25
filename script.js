@@ -3,7 +3,7 @@
    ============================================================ */
 
 /* ── Dates ── */
-const BDAY_DATE  = new Date('2026-06-26T00:00:00+07:00');
+const BDAY_DATE  = new Date('2026-06-20T00:00:00+07:00');
 const ANNI_DATE  = new Date('2026-06-28T00:00:00+07:00');
 const BORN_DATE  = new Date('2008-06-26T00:00:00+07:00');
 const ANNI_START = new Date('2024-06-28T00:00:00+07:00');
